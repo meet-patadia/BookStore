@@ -1,9 +1,5 @@
 package bookstore;
 
-/**
- *
- * @author a34hasan
- */
 public class GoldState extends CustomerState {
     public GoldState(Customer customer) {
         super(customer);
