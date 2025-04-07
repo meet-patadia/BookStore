@@ -30,11 +30,6 @@ import javafx.scene.layout.HBox;
 import javafx.scene.layout.Priority;
 import javafx.scene.layout.VBox;
 
-
-/**
- *
- * @author a34hasan
- */
 public class Bookstore extends Application {
         private ArrayList<Book> books;
         private ArrayList<Customer> customers;
