@@ -1,7 +1,7 @@
 Book-Store Application
 
 Overview
-This project is a command-line based Bookstore Management System implemented in Java as part of the COE528 course requirements. It simulates the functionality of a bookstore where users can interact with the system based on their roles—either as a Manager or a Customer. The design of the application emphasizes object-oriented programming principles and applies basic software design patterns to ensure modularity, reusability, and scalability.
+This project is a command-line based Bookstore Management System implemented in Java. It simulates the functionality of a bookstore where users can interact with the system based on their roles—either as a Manager or a Customer. The design of the application emphasizes object-oriented programming principles and applies basic software design patterns to ensure modularity, reusability, and scalability.
 
 Objectives
 
