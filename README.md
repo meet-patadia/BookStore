@@ -10,4 +10,4 @@ Objectives
 - To demonstrate use of object-oriented principles such as encapsulation, polymorphism, inheritance, and abstraction
 - To apply relevant design patterns in the structure of the system
 
-Credits: Omar Faize, Ahmed Hasan
+Partners: Omar Faize, Ahmed Hasan
